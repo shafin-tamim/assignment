@@ -55,7 +55,7 @@ This will create:
 ```
 home_assignment/
 ├── extractor.py          # PDF data extraction script
-├── llm_with_LCEL.py     # AI summarization script
+├── llm_model.py           # AI summarization script
 ├── requirements.txt      # Project dependencies
 ├── .env                 # Environment variables
 └── README.md            # This documentation
