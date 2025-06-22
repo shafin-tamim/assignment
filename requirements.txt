@@ -1,0 +1,17 @@
+# Core dependencies
+langchain==0.2.10
+langchain-openai==0.1.17
+python-dotenv==1.0.1
+langchain-groq==0.1.6
+langchain-community==0.2.10
+
+
+
+
+
+# PDF processing
+pymupdf>=1.23.6           # Fast and reliable PDF parsing
+pdfplumber>=0.10.3        # Optional - if you need table/line-by-line parsing
+
+# Optional (only if you use OpenAI as a fallback)
+openai>=1.30.1
